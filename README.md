@@ -12,3 +12,17 @@ trocar para ts e tsx
 Deletar os css e className
 
 executar yarn dev
+
+yarn add eslint -D
+yarn eslint --init
+To check syntax, find problems, and enforce code style
+import/export
+react
+typescript
+selecionar browser e node 
+Use a popular style guide
+Standard
+JSON
+npm
+deletar package.lock.json
+executar yarn
