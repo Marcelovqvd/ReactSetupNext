@@ -26,3 +26,5 @@ JSON
 npm
 deletar package.lock.json
 executar yarn
+
+yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
