@@ -19,7 +19,7 @@ To check syntax, find problems, and enforce code style
 import/export
 react
 typescript
-selecionar browser e node 
+selecionar browser e node
 Use a popular style guide
 Standard
 JSON
@@ -28,3 +28,13 @@ deletar package.lock.json
 executar yarn
 
 yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
+
+
+Configurar o styled-components
+yarn add styled-components
+yarn add @types/styled-components
+
+Babel
+/babel.config.js
+
+/pages/_document.tsx
